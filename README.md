@@ -13,7 +13,7 @@ In this assignment, you will perform an Exploratory Data Analysis (EDA) on a dat
 For this assignment, you will automate the EDA process using your preferred tool. We recommend using **Sweetviz** for generating quick visualizations and summaries.
 
 - **Colab Link**: [Assignment 2 - Auto EDA](https://colab.research.google.com/drive/1gGk4VBjk9xe78zPqdjl8RzfbvdCAqbps?usp=sharing)
-- **Sweetviz PDF**: [Download Sweetviz PDF]([pdf](https://github.com/satvik-atmakuri/Apache-Beam/blob/main/README.md))
+- **Sweetviz PDF**: [Download Sweetviz PDF](https://github.com/satvik-atmakuri/Apache-Beam/blob/main/sweetviz_pdf.pdf)
 
 ## Assignment 3: Apache Beam Features
 
